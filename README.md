@@ -1,6 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=abcaf6&height=150&section=header" />
 
+<br>
 
+<div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-20232a?style=flat&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/>
@@ -10,6 +12,10 @@
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/powerbi-#F2C811?style=flat&logo=powerbi&logoColor=white"/>
+</div>
+
+<br>
 
 <br>
 
