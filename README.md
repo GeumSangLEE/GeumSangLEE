@@ -1,14 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=abcaf6&height=150&section=header" />
 
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-20232a?style=flat&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=GitHub&logoColor=black"/>
 
-
-<img src="https://img.shields.io/badge/GitHub-20232a.svg?style=for-the-badge&logo=GITHUB&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=GITHUB&logoColor=000000" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=abcaf6&height=150&section=footer" />
 
 <!--
 **GeumSangLEE/GeumSangLEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
