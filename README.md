@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=abcaf6&height=150&section=header" />
-
-![Geumsnag's github stats](https://github-readme-stats.vercel.app/api?username=GeumSangLEE&show_icons=true)
-
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23ABCAF6&title_bg=%23FFE4EF&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
+![Geumsnag's github stats](https://github-readme-stats.vercel.app/api?username=GeumSangLEE&show_icons=true)
+[![Geumsnag's github stats](https://github-readme-stats.vercel.app/api?username=GeumSangLEE&count_private={프라이빗 레포 커밋 셀지말지(bool)}&custom_title={타이틀(string)}&bg_color=45,abcaf6,23FFFFFF&title_color={타이틀 색(hex)}&text_color={타이틀 색(hex)})](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
