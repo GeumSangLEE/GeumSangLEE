@@ -6,7 +6,7 @@
 
 <img src="https://img.shields.io/badge/GitHub-20232a.svg?style=for-the-badge&logo=GITHUB&logoColor=white" />
 
-
+<img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=GITHUB&logoColor=white" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=abcaf6&height=150&section=footer" />
 
