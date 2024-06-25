@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=abcaf6&height=150&section=header" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=abcaf6&height=150&section=header&text=GeumSangLeeGithub%20render&fontSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=abcaf6&height=200&section=header&text=GeumSangLeeGithub%20render&fontSize=50" />
 
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23ABCAF6&title_bg=%23FFE4EF&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
