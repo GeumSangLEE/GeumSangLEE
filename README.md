@@ -7,7 +7,9 @@
 <img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=black"/>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=linux&logoColor=white"/>
 
 <!--
 **GeumSangLEE/GeumSangLEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
