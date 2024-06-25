@@ -1,7 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=abcaf6&height=150&section=header" />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeumSangLEE))
+<img src="https://img.shields.io/badge/Python-20232a.svg?style=for-the-badge&logo=Python&logoColor=3776AB" />
+
 
 
 
