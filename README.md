@@ -3,7 +3,7 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-20232a?style=flat&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=GitHub&logoColor=black"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=GitHub&logoColor=white"/>
 
 
 <!--
