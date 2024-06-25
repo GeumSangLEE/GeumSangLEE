@@ -7,9 +7,6 @@
 [![Geumsnag's github stats](https://github-readme-stats.vercel.app/api?username=GeumSangLEE&count_private=true&bg_color=10,abcaf6,f0dfe7&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlrmatkd3254)](https://solved.ac/dlrmatkd3254/)
 <hr/>
-
-
-
 <br>
 <h3 align="center">📚 STACKS 📚</h3>
 <div align="center">
