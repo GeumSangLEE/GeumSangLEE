@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/powerbi-#F2C811?style=flat&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/powerbi-F2C811?style=flat&logo=powerbi&logoColor=white"/>
 </div>
 
 <br>
