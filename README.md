@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=abcaf6&height=150&section=header" />
 
 <br>
-<h3 align="center">🛠 Tools 🛠</h3>
+<h3 align="center">📚 STACKS 📚</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-20232a?style=flat&logo=GitHub&logoColor=white"/>
