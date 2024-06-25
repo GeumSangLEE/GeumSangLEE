@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=abcaf6&height=150&section=header&text=GeumSangLeeGithub%20render&fontSize=40" />
 
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23ABCAF6&title_bg=%23FFE4EF&icon=github.svg&icon_color=%ffffff&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23ABCAF6&title_bg=%23FFE4EF&icon=github.svg&icon_color=%fdfffff&title=hits&edge_flat=false"/></a>
 
 [![Geumsnag's github stats](https://github-readme-stats.vercel.app/api?username=GeumSangLEE&count_private=true&bg_color=10,abcaf6,f0dfe7&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
