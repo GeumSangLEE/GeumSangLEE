@@ -1,5 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=abcaf6&height=150&section=header" />
 
+![Geumsnag's github stats](https://github-readme-stats.vercel.app/api?username=GeumSangLEE&show_icons=true)
+
 <br>
 <h3 align="center">📚 STACKS 📚</h3>
 <div align="center">
