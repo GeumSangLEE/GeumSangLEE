@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-20232a?style=flat&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=black"/>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black"/>
 
