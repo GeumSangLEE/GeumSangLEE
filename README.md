@@ -3,7 +3,6 @@
 <h3 align="center">✨ Hi ✨</h3>
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23ABCAF6&title_bg=%23FFE4EF&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
-<hr/>
 
 [![Geumsnag's github stats](https://github-readme-stats.vercel.app/api?username=GeumSangLEE&count_private=true&bg_color=10,abcaf6,f0dfe7&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlrmatkd3254)](https://solved.ac/dlrmatkd3254/)
