@@ -18,11 +18,6 @@
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=linux&logoColor=white"/>
   <br>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/powerbi-F2C811?style=flat&logo=powerbi&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/html5-E34F26?style=flate&logo=html5&logoColor=white">
 </div>
 
 <br>
